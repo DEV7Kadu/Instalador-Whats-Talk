@@ -1,4 +1,4 @@
-ATUALIZANDO O SITERA OPERACIONAL
+ATUALIZANDO O SISTEMA OPERACIONAL
 
 ```bash
 sudo apt -y update && apt -y upgrade
